@@ -1,0 +1,10 @@
+streamlit>=1.18
+numpy>=1.23
+scikit-learn>=1.0
+sentence-transformers>=2.2.2
+pdfplumber>=0.8.0
+python-docx>=0.8.11
+tqdm>=4.64
+openai>=0.27.0   # optional, for ChatGPT summaries
+python-multipart>=0.0.5
+huggingface_hub==0.23.2
