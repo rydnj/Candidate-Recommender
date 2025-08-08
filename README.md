@@ -1,5 +1,7 @@
 # Candidate Recommendation Engine
 
+Streamlit Link: https://candidate-recommender-5mybzyswamg78vshytn3bv.streamlit.app/
+
 ## What this does
 
 A small Streamlit app that:
@@ -49,3 +51,4 @@ A small Streamlit app that:
 - `app.py` — Streamlit entry
 - `embeddings.py` — embedding backend abstraction
 - `utils.py` — parsers, similarity, fallback summarizer
+
